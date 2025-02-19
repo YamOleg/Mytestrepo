@@ -1,0 +1,10 @@
+[GA4] Consent signal
+A consent signal represents a visitor's consent choice, which can be either:
+
+Granted: The user has given their consent for the specific data processing.
+Denied: The user has refused consent for the specific data processing.
+Consent signals are crucial for ensuring websites and apps comply with privacy regulations, like the General Data Protection Regulation (GDPR), by respecting user choices about their data. Google's tags and tools can read these consent signals and adjust their behavior accordingly.
+
+For example, if a user denies consent for analytics cookies, Google Analytics tags wouldn't track their activity on the site.
+
+
